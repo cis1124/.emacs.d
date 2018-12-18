@@ -1,10 +1,10 @@
 * Todo.org
 ** Learning
 *** Linux Kernel
-*** Kubernetes
+*** [#A] Kubernetes
 *** MySQL
-*** DDIA
+*** [#A] DDIA
 ** Practice
-*** Tendermint
+*** [#A] Tendermint
 ** Work
 ** Life
